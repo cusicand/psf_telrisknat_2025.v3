@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PSF TelRiskNat 2025 webpade
-email: psf2025@univ-grenoble-alpes.fr 
+title: PSF TelRiskNat 2025 - 5ta edición
+email: ipsf2025@univ-grenoble-alpes.fr 
 description: >- # this means to ignore newlines until "baseurl:"
-  PSF TelRiskNat V3.2025 webpage.
-baseurl: "/psf_telrisknat_2025.v3" # the subpath of your site, e.g. /blog
+  Projets Structurants de Formation au Sud (PSF) Télédétection appliqué aux Risques Naturelles (TelRiskNat) 2025 - 5ta edición.
+baseurl: "/psf_telrisknat_2025.v5" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  cusicand
@@ -32,7 +32,7 @@ address:
   - line: "San Miguel de Urcuqui, Ecuador 100115"
   # Feel free to add more lines here 
 # telephone: +593 6299 9500
-copyright: Diego Cusicanqui
+copyright: Diego Cusicanqui, ISTerre, UGA, Yachay Tech University
 
 info_page: Created with Jekyll and Github pages using Stylish bootstrap template
 
