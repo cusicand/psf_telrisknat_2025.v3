@@ -40,7 +40,7 @@ info_page: Created with Jekyll and Github pages using Stylish bootstrap template
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 # API settings
 google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
